@@ -1,28 +1,47 @@
                                           Product Lines for Web Portals 
 
-                                    (Hasitha.Ch, Sravya.B, Ashok.J, Suman.N)
+                                    (Hasitha.Ch, Sravya.B, Ashok.J, Suman nayak)
 
 
 
 I Introduction
 
-              Software has invaded human lives exponentially over the years. After the evolution of Internet, Business practices proved more effective if the enterprise had a consistent presence in the virtual world. Even the greatness of any Institute was measured in terms of its Exposure. This concept of  Virtual presence compelled IT Companies, Hospitals, Universities, and almost every domain to go live on the Internet. With Time, this practice has extended from mere advertising to managing the Organization’s data in portals. 
+           Software has invaded human lives exponentially over the years. After the evolution of Internet,
+ Business practices proved more effective if the enterprise had a consistent presence in the virtual world. 
+ Even the greatness of any Institute was measured in terms of its Exposure. This concept of  Virtual presence 
+ compelled IT Companies, Hospitals, Universities, and almost every domain to go live on the Internet. With Time, 
+ this practice has extended from mere advertising to managing the Organization’s data in portals. 
 
-              Today, in this realm of Big Data, there is a lot of data to be managed, organized and presented as  portlets for different users. So, the demand for web developers has increased a lot over the last decade. However, people of today and the future want to be more Independent and become entrepreneurs and do everything themselves. Even a housewife wants to design her own portals, but without the minimal coding skills. This led to frameworks which helped build portals or websites with much ease. For simple portals frameworks prove useful, but for large enterprises or universities where there are many child portals to be made there is no easy approach. This led to the idea of a portal factory which can generate portals based on the requirements. In this document, I would like to specify the technical aspects as well as the challenges faced in this experience to build a product line for portals. This project is made open source on Github. Our team consists of 3 students and myself from the Indian Institute of Information Technology, Sri City.
+           Today, in this realm of Big Data, there is a lot of data to be managed, organized and presented as 
+ portlets for different users. So, the demand for web developers has increased a lot over the last decade. However, 
+ people of today and the future want to be more Independent and become entrepreneurs and do everything themselves. 
+ Even a housewife wants to design her own portals, but without the minimal coding skills. This led to frameworks which 
+ helped build portals or websites with much ease. For simple portals frameworks prove useful, but for large enterprises 
+ or universities where there are many child portals to be made there is no easy approach. This led to the idea of 
+ a portal factory which can generate portals based on the requirements. In this document, I would like to specify the 
+ technical aspects as well as the challenges faced in this experience to build a product line for portals. This project
+ is made open source on Github. Our team consists of 3 students and myself from the Indian Institute of Information 
+ Technology, Sri City.
 
 II Overview
 
-             The main idea of the project is to create a product line and prove it to be effective in generating portals which can be customized. One example case which I would take is a University as there are many varied types of portals needed in this case like Hostel Portal, Library Portal, Mess Portal, Courses Portal, Campus News Portal, Student Portal, Sharing Portal, Clubs Portal etc.
+         The main idea of the project is to create a product line and prove it to be effective in generating portals 
+ which can be customized. One example case which I would take is a University as there are many varied types of portals
+   needed in this case like Hostel Portal, Library Portal, Mess Portal, Courses Portal, Campus News Portal, Student 
+   Portal, Sharing Portal, Clubs Portal etc.
 
 
 II.(a)  Customers 
-
-              Customers of the system would be many Universities as it is convenient to use uniform but  customized portals, all those Entrepreneurs who hate coding, all those Enterprises or Companies which cannot compromise on time-to-market by wasting time in making portals, etc.
+            Customers of the system would be many Universities as it is convenient to use uniform but  customized
+   portals, all those Entrepreneurs who hate coding, all those Enterprises or Companies which cannot compromise on
+   time-to-market by wasting time in making portals, etc.
  
 
 II.(b)  Functionality
 
-This section should list the overall functionality of the system.  List each functionality and provide 2-3 line description of the functionality. It is important to note that the teams may not develop each functionality provided in this list. The scope of the project should be described in Section 3.
+This section should list the overall functionality of the system.  List each functionality and provide 2-3
+line description of the functionality. It is important to note that the teams may not develop each functionality
+provided in this list. The scope of the project should be described in Section 3.
 
 This section and section 3 should provide you the basis for the requirements document. 
 
@@ -37,20 +56,25 @@ II.(d) Development Responsibility
 Details about development responsibility, maintenance responsibility, licensing issues should be noted down here. 
 For example, the following may be the content of this section: 
 
-The openXYZ team will be responsible for implementing the functionality that they commit to in Section 3 of this document.  It is expected that a team from the SERL will be responsible for developing the database for the XYZ system. The openXYZ will not be responsible for creation of the database.
+The openXYZ team will be responsible for implementing the functionality that they commit to in Section 3 of this 
+document.  It is expected that a team from the SERL will be responsible for developing the database for the XYZ system.
+The openXYZ will not be responsible for creation of the database.
 
 
 III. Goals and Scope
 
-Section 2 outlined the overall functionality of project. This section should detail the functionality that the OpenXYZ team intends to implement for the final release in November 2011.
+Section 2 outlined the overall functionality of project. This section should detail the functionality that the
+OpenXYZ team intends to implement for the final release in November 2011.
 
-This section should step through the functionality listed in section 2.2 and detail specifically what is in or out of scope for the final release.
+This section should step through the functionality listed in section 2.2 and detail specifically what is in or out
+of scope for the final release.
 
 IV Deliverables
 
 This section should describe what the OpenXYZ team will deliver to the sponsor throughout the course of development. 
 
-For example, Feature specification (requirements), product design (design document), test plan, deployment document, source code, etc. 
+For example, Feature specification (requirements), product design (design document), test plan, deployment document, 
+source code, etc. 
 
 Each team may have some specific deliverables outside of the SSAD course deliverables.
 
@@ -58,11 +82,13 @@ V  Risk Management
 	
 V.(a)  Risk Identification
 
-Identify and list down the details of various risks in this project. For example you should detail the technology risks, resource risks, scope creep, etc. 
+Identify and list down the details of various risks in this project. For example you should detail the technology risks,
+resource risks, scope creep, etc. 
 
 V.(b)  Risk Mitigation
 
-This section will describe what will be done to mitigate the risks listed in section 5.1.  The list should follows the same order as section 5.1. 
+This section will describe what will be done to mitigate the risks listed in section 5.1.  The list should follows the 
+same order as section 5.1. 
 
  
 VI Scheduling and Estimates
@@ -78,7 +104,8 @@ M4	SCM, issue tracker	October 24, 20011	R2
 M5	issue tracker, user reviews, web design integration	November 1, 2011	R2
 M6	filesystem node management, web design integration	November 14, 2011	R2
 
-A more detailed description of the features for each milestone should be provided in the requirements document (using use cases).
+A more detailed description of the features for each milestone should be provided in the requirements document 
+(using use cases).
 
 
 VII Technical Process
